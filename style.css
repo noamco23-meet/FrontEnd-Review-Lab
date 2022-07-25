@@ -1,0 +1,12 @@
+body{
+    background-color: #1b5ed1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#paragraph {
+    color: burlywood;
+}
+
+.titles {
+    color: white;
+}
